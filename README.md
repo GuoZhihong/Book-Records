@@ -1,2 +1,2 @@
 # Book-Records
-More info can be seen in 
+More infos can be seen in Comp249_W17_Assg3.pdf
